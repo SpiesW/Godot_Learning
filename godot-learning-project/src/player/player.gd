@@ -1,5 +1,6 @@
 extends CharacterBody2D
 
+
 var direction: Vector2 = Vector2.ZERO
 var speed: int = 300
 
